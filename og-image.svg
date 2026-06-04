@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Fondo negro editorial -->
+  <rect width="1200" height="630" fill="#1C1410"/>
+
+  <!-- Línea roja decorativa -->
+  <rect x="80" y="80" width="4" height="100" fill="#B83228"/>
+
+  <!-- Logo CONECTOR SOCIAL -->
+  <text x="96" y="142" font-family="monospace" font-size="14" font-weight="700" fill="#B83228" letter-spacing="4" text-anchor="start">CONECTOR SOCIAL</text>
+
+  <!-- Titular principal -->
+  <text x="80" y="320" font-family="Arial Black, sans-serif" font-size="72" font-weight="900" fill="#FAF6EF" text-anchor="start">Entiende el mundo</text>
+  <text x="80" y="410" font-family="Arial Black, sans-serif" font-size="72" font-weight="900" fill="#FAF6EF" text-anchor="start">que no ves.</text>
+
+  <!-- Subtítulo -->
+  <text x="80" y="480" font-family="monospace" font-size="20" fill="rgba(250,246,239,0.55)" text-anchor="start">La brújula del trabajo social en España.</text>
+  <text x="80" y="510" font-family="monospace" font-size="20" fill="rgba(250,246,239,0.55)" text-anchor="start">Por @soyandrea.ts · conectorsocial.netlify.app</text>
+
+  <!-- Decoración — línea inferior -->
+  <rect x="80" y="555" width="200" height="2" fill="#B83228" opacity="0.6"/>
+</svg>
